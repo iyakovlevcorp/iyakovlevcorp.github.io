@@ -1,4 +1,4 @@
-:HL["/_next/static/media/a2d2bca09985fd9b-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/dcce044abbf2255a.css","style"]
-:HL["/_next/static/css/51bdd936883a7668.css","style"]
-0:{"buildId":"NXeplKwyWmhyszuCS0Oma","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"projects","paramType":null,"paramKey":"projects","hasRuntimePrefetch":false,"slots":{"children":{"name":"interfax","paramType":null,"paramKey":"interfax","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/_next/static/chunks/cdc882936bfb656b.css","style"]
+:HL["/_next/static/media/manrope_var-s.p.56f1d0c0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/810cd6532ecaa8c0.css","style"]
+0:{"buildId":"AHpcUnRV-v1tqtU67JIqb","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"projects","paramType":null,"paramKey":"projects","hasRuntimePrefetch":false,"slots":{"children":{"name":"interfax","paramType":null,"paramKey":"interfax","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
